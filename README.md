@@ -1,14 +1,11 @@
-# Ecuaciones Diferenciales — Segundo cuatrimestre de 2011
+# Ecuaciones Diferenciales A y B
 
-## Prácticas
+## Segundo Cuatrimestre de 2011
 
-- [Práctica 0:](practica0.pdf)
-- [Práctica 1:](practica1.pdf)
-- [Práctica 2:](practica2.pdf)
-- [Práctica 3:](practica3.pdf)
-- [Práctica 4:](practica4.pdf)
-- [Práctica 5:](practica5.pdf)
+### Novedades
 
-## Página original
+\
+**Segundo Parcial.** Lunes 5 de Diciembre, 14 hs, en el aula 6 del pabellón I
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2011/ecuaciones_diferenciales/)
+|
+|  |
